@@ -11,7 +11,7 @@
     "type": "symfony-bundle",
     "require": {
         "symfony/framework-bundle": "~2.3|~3.0",
-        "airbrake/phpbrake": "~0.1.0"
+        "airbrake/phpbrake": "~0.2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.0",
